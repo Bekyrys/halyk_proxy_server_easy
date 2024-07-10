@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: halyk_proxy_server_easy
+    env: go
+    buildCommand: go mod download && go build -tags netgo -ldflags '-s -w' -o app
+    startCommand: ./app
