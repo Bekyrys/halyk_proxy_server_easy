@@ -7,10 +7,10 @@ The project was created for educational purposes and is an HTTP proxy server wri
 ## How to install 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Bekyrys/Halyk-HTTP-Proxy-Server
+   git clone https://github.com/Bekyrys/halyk_proxy_server_easy/
     ```
   ```sh
-     cd Halyk-HTTP-Proxy-Server
+     cd halyk_proxy_server_easy
 ```
 2. Build and run using Docker:
 ```sh
@@ -26,7 +26,7 @@ make run
 ```
 ## Deployed on RENDER:
 ### Base URL
-https://halyk-http-proxy-server.onrender.com
+https://halyk-proxy-server-easy.onrender.com
 ### Request Body:
 ```sh
 {
