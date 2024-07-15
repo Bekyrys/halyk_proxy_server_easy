@@ -3,7 +3,11 @@
 ## Introduction
 
 The project was created for educational purposes and is an HTTP proxy server written in Golang.  It accepts requests, sends them to the specified external services, and returns a response in JSON format.
-
+## Requirements
+- Docker
+- Docker Compose
+- Golang
+- 
 ## How to install 
 1. Clone the repository:
    ```sh
