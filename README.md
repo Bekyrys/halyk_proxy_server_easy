@@ -7,7 +7,6 @@ The project was created for educational purposes and is an HTTP proxy server wri
 - Docker
 - Docker Compose
 - Golang
-- 
 ## How to install 
 1. Clone the repository:
    ```sh
